@@ -1,0 +1,133 @@
+Videogames
+
+ * Farewell to Wii U
+ * Who is playing games, and why (or why not)?
+ * How can gaming improve?
+
+#HSLIDE
+
+RIP Wii U
+---------
+Nov 8th, 2012</td><td>March 3rd, 2017
+
+#HSLIDE
+
+LOL FAIL
+========
+
+13.5 million units
+
+# insert graph here
+
+#HSLIDE
+
+PROBLEMS
+========
+ * the name: is this an accessory or a new system?
+ * the tablet: wait, is this a portable?
+ * who is this for? less powerful than PS3 + 360, hard to develop for, TVii???
+
+#HSLIDE
+
+Flop by the Numbers
+-------------------
+Fewest consoles and software titles sold ever
+
+<table>
+        <th><td>&nbsp;</td><td>System</td><td>Consoles (MM)</td><td>Software (MM)</td><td>Attach Rate</td></th>
+        <tr><td>01</td><td>Nintendo Gamecube</td><td>21.74</td><td>208.57</td><td>9.59</td></tr>
+        <tr><td>02</td><td>Wii</td><td>101.63</td><td>916.15</td><td>9.01</td></tr>
+        <tr><td>03</td><td>Famicom/NES</td><td>61.91</td><td>500.01</td><td>8.07</td></tr>
+        <tr><td>04</td><td>Super Famicom/SNES</td><td>49.10</td><td>379.06</td><td>7.72</td></tr>
+        <tr><td>--</td><td>PS4</td><td>53.4</td><td>409.1</td><td>7.51</td></tr>
+        <tr><td>05</td><td>Wii U</td><td>13.36</td><td>92.35</td><td>6.91</td></tr>
+        <tr><td>06</td><td>Nintendo 64</td><td>32.93</td><td>224.97</td><td>6.83</td></tr>
+        <tr><td>07</td><td>Nintendo DS</td><td>154.02</td><td>948.44</td><td>6.15</td></tr>
+        <tr><td>08</td><td>Nintendo 3DS</td><td>61.57</td><td>293.40</td><td>4.76</td></tr>
+        <tr><td>09</td><td>Game Boy Advance</td><td>81.51</td><td>377.42</td><td>4.63</td></tr>
+        <tr><td>10</td><td>Game Boy/Game Boy Color</td><td>118.69</td><td>501.11</td><td>4.22</td></tr>
+</table>
+
+Source: https://www.gamefaqs.com/boards/631516-wii-u/74825958
+https://www.vg247.com/2017/01/23/more-impressive-than-ps4-sales-so-far-is-the-consoles-software-attach-rate-report/
+
+#HSLIDE
+
+But hey, the games were good!
+-----------------------------
+
+#HSLIDE
+
+Smash Bros Brawl
+----------------
+
+chaotic but streamlined
+unbalanced on purpose design
+
+#HSLIDE
+
+Super Mario 3D World
+====================
+
+Everyone is a cat. Need I say more?
+
+#HSLIDE
+
+Pikmin
+------
+
+Streamlined RTS game, cute AF. Aliens on a juice cleanse.
+
+#HSLIDE
+
+Mario Kart
+==========
+
+Classic for-everyone gameplay. Items get better as you lag behind, and AI adjusts skill to match yours (to a point).
+Luigi Death Stare
+
+#HSLIDE
+
+Splatoon
+--------
+
+Least violent shooter ever?
+Strong Miiverse presence
+Are you a squid or a kid?
+
+#HSLIDE
+
+Captain Toad's Treasure Tracker
+-------------------------------
+omgbbq so cute
+
+#HSLIDE
+
+Nintendo's culture is centered on creativity. They make games that are family-friendly, sometimes beginner-friendly. But are they an _inclusive_ company?
+
+#HSLIDE
+
+Representation (gender, race, body, cultural experience)
+Motivation (gameplay, story, characters, challenge)
+Investment (time, money)
+
+#HSLIDE
+
+RUST
+----
+
+Indie game in perpetual alpha (playtesting)
+Survive in a multiplayer world starting naked with no possessions
+April 2016, pushed update that randomly assigns gender, age, race, and body type to every player. permanently.
+
+#HSLIDE
+
+"Why won’t you give the player base an option to choose their gender? I just want to play the game and have a connection to the character like most other games I play." - Disgruntled cis white male player
+
+:-/ - Everyone else
+
+(but some transgender gamers likened it to their lived experience)
+Source: https://www.theguardian.com/commentisfree/2016/apr/13/videogame-chooses-character-race-gender-rust
+
+
+
