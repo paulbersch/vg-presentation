@@ -40,8 +40,7 @@ https://www.vg247.com/2017/01/23/more-impressive-than-ps4-sales-so-far-is-the-co
 
 #HSLIDE
 
-PROBLEMS
-========
+###PROBLEMS
 Launch (nobody bought it!)
  * Marketing confusion: accessory or a new system?
  * Tablet: is it a portable or an iPad or...?
@@ -58,8 +57,7 @@ Who cares about money? Nintendo is still having fun
 
 #HSLIDE
 
-The Games
----------
+#The Games
 
 #HSLIDE
 
@@ -131,6 +129,10 @@ Nintendo's culture is centered on creativity. They make games that are family-fr
  - Representation (gender, race, body, cultural experience)
  - Motivation (gameplay, story, characters, challenge)
  - Investment (time, money)
+
+#HSLIDE
+
+How can we make video games welcoming for _everybody_?
 
 #HSLIDE
 
