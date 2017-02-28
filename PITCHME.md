@@ -41,11 +41,11 @@ https://www.vg247.com/2017/01/23/more-impressive-than-ps4-sales-so-far-is-the-co
 PROBLEMS
 ========
 Launch (nobody bought it!)
- * Marketing confusion: is this an accessory or a new system?
+ * Marketing confusion: accessory or a new system?
  * Tablet: is it a portable or an iPad or...?
  * Who is this for? Less powerful than PS3 or 360, hard to develop for, TVii???
 
-Eventually, only Nintendo, 2nd party, and a few indies would publish.
+Only Nintendo and a few indies published good games
 
 #HSLIDE
 
@@ -99,7 +99,10 @@ Are you a squid or a kid?
 
 Captain Toad's Treasure Tracker
 -------------------------------
-omgbbq so cute
+omfgbbq so cute.
+<img src="http://cdn.atomix.vg/wp-content/uploads/2015/08/CaptainToad.gif" />
+<img src="https://d.ibtimes.co.uk/en/full/1416651/captain-toad-treasure-tracker-gif.gif" />
+Clever, low-stress platformer without jumping
 
 #HSLIDE
 
