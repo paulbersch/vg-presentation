@@ -55,7 +55,7 @@ Only Nintendo and a few indies published good games
 
 #HSLIDE
 
-Who cares about money? Nintendo is still having fun.
+Who cares about money? Nintendo is still having fun
 <img src="http://i1.kym-cdn.com/photos/images/original/001/023/803/f4c.gif" />
 
 (also having ~$8bn of Wii cash in the bank helps)
@@ -71,7 +71,7 @@ The Games
 
 Unbalanced (on purpose) design. 8 players!
 
-Secretly a Pokémon game.
+Secretly a Pokémon game
 
 <img src="https://i.ytimg.com/vi/evJoXzO7DCM/maxresdefault.jpg" style="width: 60%;" />
 
@@ -79,7 +79,7 @@ Secretly a Pokémon game.
 
 ###Super Mario 3D World
 
-Everyone is a cat. Up to 4-player cooperative play, works like a scramble in golf.
+Everyone is a cat. Up to 4-player cooperative play, works like a scramble in golf
 
 <img src="https://www.technobuffalo.com/wp-content/uploads/2013/11/Super-Mario-3D-World-Art-1.jpg" style="width: 55%; float: left;" />
 <img src="http://vignette1.wikia.nocookie.net/fantendo/images/4/48/Cat_Goomba_Artwork_-_Super_Mario_3D_World.png/revision/20131025223839" style="width:35%; float: right;" />
@@ -88,7 +88,7 @@ Everyone is a cat. Up to 4-player cooperative play, works like a scramble in gol
 
 ###Pikmin
 
-Streamlined RTS game, cute AF. Aliens on a juice cleanse. Weirdly realistic fruit.
+Streamlined RTS game, cute AF. Aliens on a juice cleanse. Weirdly realistic fruit
 
 <img src="http://nintendotoday.com/wp-content/uploads/2012/09/pikmin-3-3.jpg?x74487" style="width: 45%; float: left;"/>
 <img src="http://underratedretro.com/press/wp-content/uploads/2013/08/Pikmin-3.jpg" style="width: 45%; float: right;" />
@@ -97,7 +97,7 @@ Streamlined RTS game, cute AF. Aliens on a juice cleanse. Weirdly realistic frui
 
 ###Mario Kart
 
-Items get better as you lag behind, and AI adjusts skill to match yours.
+Items get better as you lag behind, and AI adjusts skill to match yours
 
 <img src="https://media.giphy.com/media/PS4r30hfeNrR6/giphy.gif" />
 
@@ -111,7 +111,7 @@ Items get better as you lag behind, and AI adjusts skill to match yours.
 
 ###Captain Toad's Treasure Tracker
 
-omfgbbq so cute.
+omfgbbq so cute
 
 <img src="http://cdn.atomix.vg/wp-content/uploads/2015/08/CaptainToad.gif" />
 
@@ -172,7 +172,7 @@ disgruntled male player
 
 #HSLIDE
 
-Many video game protagonists are ciphers and could be anyone. There's no excuse not to provide more representative options.
+Many video game protagonists are ciphers and could be anyone. There's no excuse not to provide more representative options
 
 <img src="https://zeldawiki.org/images/thumb/b/be/HWL_Linkle_Crossbow_Artwork.png/1343px-HWL_Linkle_Crossbow_Artwork.png" style="width: 50%;" />
 
@@ -224,13 +224,15 @@ Perhaps the broadest range of playble characters (and the best shipping) ever
 
  - Variety of roles and importance of teamwork allow less-skilled players to contribute
  - Low time investment: matches end quickly, rewards are cosmetic, matchmaking helps 
- - Blizzard works hard to police community
+ - Blizzard works hard to police community (but you should probably turn off chat anyway)
+
+<img src="http://i.amz.mshcdn.com/VGeKKD2DDoJjeAI9H6zvmweyreY=/1200x630/2016/08/18/92/3cf9e124f26744d59a0e6fb90d721faa.9cc3b.jpg" />
 
 #HSLIDE
 
 ###Gaming is expanding
 
-4207 games were  released on Steam last year.
+4207 games were  released on Steam last year
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/x9kjvkbkfl3st9dvfcmx.jpg" style="width: 80%;" />
 
@@ -238,7 +240,7 @@ Perhaps the broadest range of playble characters (and the best shipping) ever
 
 #HSLIDE
 
-The proliferation of tools and distribution methods have empowered makers of small, focused, more personal games.
+The proliferation of tools and distribution methods have empowered makers of small, focused, more personal games
 
 Nina Freeman - Cibele and How Do You Do It?
 
@@ -266,9 +268,9 @@ Addictive gameplay, microtransactions are worrying
 
 ###Recapitulation
 
-1. Games need to continue to work on representation - and we need to keep pressuring developers.
-2. Narrative, characterization, and less focus on violence will expand the audience.
-3. 
+1. Games need to continue to work on representation - and we need to keep pressuring developers
+2. Narrative, characterization, and treating mechanics and violence like the niche they are will expand the audience
+3. Nintendo, Bioware, Blizzard, and indies are pushing the industry forward in positive ways
 
 #HSLIDE
 
@@ -279,7 +281,7 @@ Addictive gameplay, microtransactions are worrying
   - Be nice to people online, report jerks
   - Make your own games: Twine, RPG Maker, Game Maker
   - Read good journalism: Austin Walker is doing a great job running Vice's waypoint.zone
-  - Duckfeed.tv slack is a friendly place
+  - Duckfeed.tv slack is a friendly place to nerd out
 
 #HSLIDE
 
