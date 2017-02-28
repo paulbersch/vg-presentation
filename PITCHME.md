@@ -25,7 +25,7 @@ Fewest consoles and software titles sold ever
     <tr><td>03</td><td>Famicom/NES</td><td>61.91</td><td>500.01</td><td>8.07</td></tr>
     <tr><td>04</td><td>Super Famicom/SNES</td><td>49.10</td><td>379.06</td><td>7.72</td></tr>
     <tr><td>--</td><td>PS4</td><td>53.4</td><td>409.1</td><td>7.51</td></tr>
-    <tr><td>05</td><td>Wii U</td><td><strong>13.36</strong></td><td><strong>92.35</strong></td><td>6.91</td></tr>
+    <tr style="background-color: grey"><td>05</td><td>Wii U</td><td><strong>13.36</strong></td><td><strong>92.35</strong></td><td>6.91</td></tr>
     <tr><td>06</td><td>Nintendo 64</td><td>32.93</td><td>224.97</td><td>6.83</td></tr>
     <tr><td>07</td><td>Nintendo DS</td><td>154.02</td><td>948.44</td><td>6.15</td></tr>
     <tr><td>08</td><td>Nintendo 3DS</td><td>61.57</td><td>293.40</td><td>4.76</td></tr>
@@ -40,36 +40,43 @@ https://www.vg247.com/2017/01/23/more-impressive-than-ps4-sales-so-far-is-the-co
 
 PROBLEMS
 ========
- * the name: is this an accessory or a new system?
- * the tablet: wait, is this a portable?
- * who is this for? less powerful than PS3 + 360, hard to develop for, TVii???
+Launch (nobody bought it!)
+ * Marketing confusion: is this an accessory or a new system?
+ * Tablet: is it a portable or an iPad or...?
+ * Who is this for? Less powerful than PS3 or 360, hard to develop for, TVii???
+
+Eventually, only Nintendo, 2nd party, and a few indies would publish.
 
 #HSLIDE
 
 Who cares about money? Nintendo is still having fun.
-<img src="http://i.kinja-img.com/gawker-media/image/upload/s--xve7C6jl--/1301254001955055717.gif" />
+<img src="http://i1.kym-cdn.com/photos/images/original/001/023/803/f4c.gif" />
+(also having ~$8bn of Wii cash in the bank helps)
 
 #HSLIDE
 
 Smash Bros Brawl
 ----------------
 
-chaotic but streamlined
-unbalanced on purpose design
+Unbalanced on purpose design. 8 players! Secretly a Pokémon game.
+<img src="https://i.ytimg.com/vi/evJoXzO7DCM/maxresdefault.jpg" />
 
 #HSLIDE
 
-Super Mario 3D World
-====================
+##Super Mario 3D World
 
 Everyone is a cat. Need I say more?
 
+<img src="https://www.technobuffalo.com/wp-content/uploads/2013/11/Super-Mario-3D-World-Art-1.jpg" />
+<img src="http://vignette1.wikia.nocookie.net/fantendo/images/4/48/Cat_Goomba_Artwork_-_Super_Mario_3D_World.png/revision/20131025223839" />
+
 #HSLIDE
 
-Pikmin
-------
+##Pikmin
 
-Streamlined RTS game, cute AF. Aliens on a juice cleanse.
+Streamlined RTS game, cute AF. Aliens on a juice cleanse. Weirdly realistic fruit.
+<img src="http://nintendotoday.com/wp-content/uploads/2012/09/pikmin-3-3.jpg?x74487" />
+<img src="http://underratedretro.com/press/wp-content/uploads/2013/08/Pikmin-3.jpg" />
 
 #HSLIDE
 
@@ -77,7 +84,7 @@ Mario Kart
 ==========
 
 Classic for-everyone gameplay. Items get better as you lag behind, and AI adjusts skill to match yours (to a point).
-Luigi Death Stare
+<img src="https://media.giphy.com/media/PS4r30hfeNrR6/giphy.gif" />
 
 #HSLIDE
 
@@ -140,4 +147,5 @@ April 2016, pushed update that randomly assigns gender, age, race, and body type
 Source: https://www.theguardian.com/commentisfree/2016/apr/13/videogame-chooses-character-race-gender-rust
 
 
+<img src="http://i.kinja-img.com/gawker-media/image/upload/s--xve7C6jl--/1301254001955055717.gif" />
 
