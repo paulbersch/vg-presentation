@@ -1,3 +1,8 @@
+<style type="text/css">
+        div.source {
+                font-size: .5em;
+        }
+</style>
 Videogames
 
  * Farewell to Wii U
@@ -140,23 +145,26 @@ Nintendo's culture is centered on creativity. They make games that are family-fr
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--0gHn5jNc--/c_scale,fl_progressive,q_80,w_800/mpsdzssxwygchkukhsm1.png" style="width: 50%;"/>
 
  - Player is dropped, naked and without supplies, in a world with other hostile players
- - April 2016, pushed update that randomly assigns gender, age, race, and body type to every player._permanently_
+ - April 2016, randomly assigned gender, age, race, and body type to every player._permanently_
 
 #HSLIDE
 
-"Why won’t you give the player base an option to choose their gender? I just want to play the game and have a connection to the character like most other games I play." - disgruntled male player
+"Why won’t you give the player base an option to choose their gender? I just want to play the game and have a connection to the character like most other games I play."
 
-<div class="source">Source: https://www.theguardian.com/commentisfree/2016/apr/13/videogame-chooses-character-race-gender-rust</div>
+ - disgruntled male player
+
+<div class="source" style="clear: both;">Source: https://www.theguardian.com/commentisfree/2016/apr/13/videogame-chooses-character-race-gender-rust</div>
 
 #HSLIDE
 
-Who plays games?
+###Who plays games?
 
 <div>
 <img width="309" height="338" src="http://assets.pewresearch.org/wp-content/uploads/sites/14/2015/12/PI_2015-12-15_gaming-and-gamers_0-01.png" class="attachment-large size-large" alt="Half of American adults play video games; 10% consider themselves “gamers”" style="float: left;"/>
 
 <img src="http://assets.pewresearch.org/wp-content/uploads/sites/14/2015/12/PI_2015-12-15_gaming-and-gamers_1-01.png" class="attachment-large size-large" alt="Men and women play video games, but men are more likely to call themselves “gamers”" style="float: right;" />
 </div>
+<div style="clear: both;">&nbsp;</div>
 
 "there are no differences by race or ethnicity in who plays video games"
 
@@ -164,7 +172,15 @@ Who plays games?
 
 #HSLIDE
 
-###Is gaming relevant?
+###Gaming is expanding
+
+4207 games were  released on Steam last year.
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/x9kjvkbkfl3st9dvfcmx.jpg" />
+
+<div class="source">Source: http://kotaku.com/nearly-40-of-all-steam-games-were-released-in-2016-1789535450</div>
+
+#HSLIDE
 
 <img src="https://d1ax1i5f2y3x71.cloudfront.net/items/0G3x3B240B3K0U150X3L/Screen%20Shot%202017-02-27%20at%208.24.52%20PM.png?X-CloudApp-Visitor-Id=2671635" />
 <div class="source">Source: https://www.superdataresearch.com/market-data/market-brief-year-in-review/</div>
