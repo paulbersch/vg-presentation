@@ -56,12 +56,18 @@ Who cares about money? Nintendo is still having fun.
 
 #HSLIDE
 
+The Games
+---------
+
+#HSLIDE
+
 ###Smash Bros Brawl
 
-Unbalanced on purpose design.
-8 players! Secretly a Pokémon game.
+Unbalanced on purpose design. 8 players!
 
-<img src="https://i.ytimg.com/vi/evJoXzO7DCM/maxresdefault.jpg" />
+Secretly a Pokémon game.
+
+<img src="https://i.ytimg.com/vi/evJoXzO7DCM/maxresdefault.jpg" style="width: 80%;" />
 
 #HSLIDE
 
@@ -69,8 +75,8 @@ Unbalanced on purpose design.
 
 Everyone is a cat. Need I say more?
 
-<img src="https://www.technobuffalo.com/wp-content/uploads/2013/11/Super-Mario-3D-World-Art-1.jpg" style="width: 45%; float: left;" />
-<img src="http://vignette1.wikia.nocookie.net/fantendo/images/4/48/Cat_Goomba_Artwork_-_Super_Mario_3D_World.png/revision/20131025223839" style="width:45%; float: right;" />
+<img src="https://www.technobuffalo.com/wp-content/uploads/2013/11/Super-Mario-3D-World-Art-1.jpg" style="width: 55%; float: left;" />
+<img src="http://vignette1.wikia.nocookie.net/fantendo/images/4/48/Cat_Goomba_Artwork_-_Super_Mario_3D_World.png/revision/20131025223839" style="width:35%; float: right;" />
 
 #HSLIDE
 
@@ -95,8 +101,6 @@ Items get better as you lag behind, and AI adjusts skill to match yours (to a po
 Splatoon
 --------
 
-Least violent shooter ever?
-
 <img src="https://gamerxiphos.files.wordpress.com/2015/05/splatoon-dominance-gif.gif" />
 
 #HSLIDE
@@ -106,9 +110,15 @@ Captain Toad's Treasure Tracker
 omfgbbq so cute.
 
 <img src="http://cdn.atomix.vg/wp-content/uploads/2015/08/CaptainToad.gif" />
+
+#HSLIDE
+
+Captain Toad's Treasure Tracker
+-------------------------------
+Clever, low-stress platformer without jumping
+
 <img src="https://d.ibtimes.co.uk/en/full/1416651/captain-toad-treasure-tracker-gif.gif" />
 
-Clever, low-stress platformer without jumping
 
 #HSLIDE
 
@@ -116,13 +126,14 @@ Nintendo's culture is centered on creativity. They make games that are family-fr
 
 #HSLIDE
 
-Representation (gender, race, body, cultural experience)
-Motivation (gameplay, story, characters, challenge)
-Investment (time, money)
+ - Representation (gender, race, body, cultural experience)
+ - Motivation (gameplay, story, characters, challenge)
+ - Investment (time, money)
 
 #HSLIDE
 
 Who plays games? Lots of people.
+
 <a href="http://www.pewinternet.org/2015/12/15/gaming-and-gamers/pi_2015-12-15_gaming-and-gamers_0-01/"><img width="309" height="338" src="http://assets.pewresearch.org/wp-content/uploads/sites/14/2015/12/PI_2015-12-15_gaming-and-gamers_0-01.png" class="attachment-large size-large" alt="Half of American adults play video games; 10% consider themselves “gamers”" /></a>
 
 <a href="http://www.pewinternet.org/2015/12/15/gaming-and-gamers/pi_2015-12-15_gaming-and-gamers_1-01/"><img width="1" height="1" src="http://assets.pewresearch.org/wp-content/uploads/sites/14/2015/12/PI_2015-12-15_gaming-and-gamers_1-01.png" class="attachment-large size-large" alt="Men and women play video games, but men are more likely to call themselves “gamers”" /></a>
