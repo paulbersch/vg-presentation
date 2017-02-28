@@ -283,7 +283,9 @@ Addictive gameplay, microtransactions are worrying
   - Contact developers and publishers (it works!)
   - Be nice to people online, report jerks
   - Make your own games: Twine, RPG Maker, Game Maker
-  - Read good journalism: Austin Walker is doing a great job running Vice's waypoint.zone
+  - Read good journalism:
+        - Austin Walker and Danille Riendeau are doing a great job starting Vice's waypoint.zone
+        - Gita Jackson and Patricia Hernandez at Kotaku
   - Duckfeed.tv slack is a friendly place to nerd out
 
 #HSLIDE
