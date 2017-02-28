@@ -4,11 +4,7 @@
         }
 </style>
 
-Videogames
-
- * Farewell to Wii U
- * Who is playing games, and why (or why not)?
- * How can gaming improve?
+Videogames and Inclusivity
 
 #HSLIDE
 
