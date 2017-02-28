@@ -63,7 +63,7 @@ The Games
 
 ###Smash Bros Brawl
 
-Unbalanced on purpose design. 8 players!
+Unbalanced (on purpose) design. 8 players!
 
 Secretly a Pokémon game.
 
@@ -124,17 +124,41 @@ Nintendo's culture is centered on creativity. They make games that are family-fr
 
 #HSLIDE
 
+###Ways to be inclusive
+
  - Representation (gender, race, body, cultural experience)
  - Motivation (gameplay, story, characters, challenge)
  - Investment (time, money)
 
 #HSLIDE
 
-Who plays games? Lots of people.
+##Representation
 
+#HSLIDE
+###RUST
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--0gHn5jNc--/c_scale,fl_progressive,q_80,w_800/mpsdzssxwygchkukhsm1.png" style="width: 50%;"/>
+
+ - Player is dropped, naked and without supplies, in a world with other hostile players
+ - April 2016, pushed update that randomly assigns gender, age, race, and body type to every player._permanently_
+
+#HSLIDE
+
+"Why won’t you give the player base an option to choose their gender? I just want to play the game and have a connection to the character like most other games I play." - disgruntled male player
+
+<div class="source">Source: https://www.theguardian.com/commentisfree/2016/apr/13/videogame-chooses-character-race-gender-rust</div>
+
+#HSLIDE
+
+Who plays games?
+
+<div>
 <img width="309" height="338" src="http://assets.pewresearch.org/wp-content/uploads/sites/14/2015/12/PI_2015-12-15_gaming-and-gamers_0-01.png" class="attachment-large size-large" alt="Half of American adults play video games; 10% consider themselves “gamers”" style="float: left;"/>
 
 <img src="http://assets.pewresearch.org/wp-content/uploads/sites/14/2015/12/PI_2015-12-15_gaming-and-gamers_1-01.png" class="attachment-large size-large" alt="Men and women play video games, but men are more likely to call themselves “gamers”" style="float: right;" />
+</div>
+
+"there are no differences by race or ethnicity in who plays video games"
 
 <div class="source">Source: http://www.pewinternet.org/2015/12/15/who-plays-video-games-and-identifies-as-a-gamer/</div>
 
@@ -146,22 +170,6 @@ Who plays games? Lots of people.
 <div class="source">Source: https://www.superdataresearch.com/market-data/market-brief-year-in-review/</div>
 
 #HSLIDE
-
-RUST
-----
-
-<img src="https://i.kinja-img.com/gawker-media/image/upload/s--0gHn5jNc--/c_scale,fl_progressive,q_80,w_800/mpsdzssxwygchkukhsm1.png" style="float: right; width: 40%;"/>
-
- - Player is dropped, naked and without supplies, in a world with other hostile players
- - April 2016, pushed update that randomly assigns gender, age, race, and body type to every player._permanently_
-
-
-#HSLIDE
-
-        "Why won’t you give the player base an option to choose their gender? I just want to play the game and have a connection to the character like most other games I play."
-        Disgruntled male player
-
-<div class="source">Source: https://www.theguardian.com/commentisfree/2016/apr/13/videogame-chooses-character-race-gender-rust</div>
 
 #HSLIDE
 
