@@ -176,8 +176,13 @@ Many video game protagonists are ciphers and could be anyone. There's no excuse 
 
 #HSLIDE
 
-High-budget games are trying harder
+###High-budget games are trying harder
  - Assassin's Creed Syndicate: first mainline game to include a female protagonist (after outcry from not having female models available in multiplayer in previous game)
+ - Dishonored 2: can play entire game as either Emily or Corvo
+
+#HSLIDE
+
+###High budget games are trying harder
  - Mafia 3: black male protagonist, tries to portray racism of 60's New Orleans
      - not-totally-cringeworthy segregated diners, kkk, racist name-calling by enemies and passerby
      - police respond slower (or not at all) in poor neighborhoods
