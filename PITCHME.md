@@ -10,24 +10,27 @@ RIP Wii U
 ---------
 Nov 8th, 2012 - March 3rd, 2017
 
+<!--<img src="http://www.abload.de/img/jurassickazxiu1c.gif" />-->
+<img src="https://i.chzbgr.com/maxW500/7546103808/hF30B3FDB/" />
+
 #HSLIDE
 
 ###Flop by the Numbers
 Fewest consoles and software titles sold ever
 
 <table style="font-size: .5em">
-        <th><td>&nbsp;</td><td>System</td><td>Consoles (MM)</td><td>Software (MM)</td><td>Attach Rate</td></th>
-        <tr><td>01</td><td>Nintendo Gamecube</td><td>21.74</td><td>208.57</td><td>9.59</td></tr>
-        <tr><td>02</td><td>Wii</td><td>101.63</td><td>916.15</td><td>9.01</td></tr>
-        <tr><td>03</td><td>Famicom/NES</td><td>61.91</td><td>500.01</td><td>8.07</td></tr>
-        <tr><td>04</td><td>Super Famicom/SNES</td><td>49.10</td><td>379.06</td><td>7.72</td></tr>
-        <tr><td>--</td><td>PS4</td><td>53.4</td><td>409.1</td><td>7.51</td></tr>
-        <tr><td>05</td><td>Wii U</td><td>13.36</td><td>92.35</td><td>6.91</td></tr>
-        <tr><td>06</td><td>Nintendo 64</td><td>32.93</td><td>224.97</td><td>6.83</td></tr>
-        <tr><td>07</td><td>Nintendo DS</td><td>154.02</td><td>948.44</td><td>6.15</td></tr>
-        <tr><td>08</td><td>Nintendo 3DS</td><td>61.57</td><td>293.40</td><td>4.76</td></tr>
-        <tr><td>09</td><td>Game Boy Advance</td><td>81.51</td><td>377.42</td><td>4.63</td></tr>
-        <tr><td>10</td><td>Game Boy/Game Boy Color</td><td>118.69</td><td>501.11</td><td>4.22</td></tr>
+    <tr><th>&nbsp;</th><th>System</th><th>Consoles (MM)</th><th>Software (MM)</th><th>Attach Rate</th></tr>
+    <tr><td>01</td><td>Nintendo Gamecube</td><td>21.74</td><td>208.57</td><td>9.59</td></tr>
+    <tr><td>02</td><td>Wii</td><td>101.63</td><td>916.15</td><td>9.01</td></tr>
+    <tr><td>03</td><td>Famicom/NES</td><td>61.91</td><td>500.01</td><td>8.07</td></tr>
+    <tr><td>04</td><td>Super Famicom/SNES</td><td>49.10</td><td>379.06</td><td>7.72</td></tr>
+    <tr><td>--</td><td>PS4</td><td>53.4</td><td>409.1</td><td>7.51</td></tr>
+    <tr><td>05</td><td>Wii U</td><td><strong>13.36</strong></td><td><strong>92.35</strong></td><td>6.91</td></tr>
+    <tr><td>06</td><td>Nintendo 64</td><td>32.93</td><td>224.97</td><td>6.83</td></tr>
+    <tr><td>07</td><td>Nintendo DS</td><td>154.02</td><td>948.44</td><td>6.15</td></tr>
+    <tr><td>08</td><td>Nintendo 3DS</td><td>61.57</td><td>293.40</td><td>4.76</td></tr>
+    <tr><td>09</td><td>Game Boy Advance</td><td>81.51</td><td>377.42</td><td>4.63</td></tr>
+    <tr><td>10</td><td>Game Boy/Game Boy Color</td><td>118.69</td><td>501.11</td><td>4.22</td></tr>
 </table>
 
 <div class="source">Source: https://www.gamefaqs.com/boards/631516-wii-u/74825958
@@ -43,8 +46,8 @@ PROBLEMS
 
 #HSLIDE
 
-But hey, the games were good!
------------------------------
+Who cares about money? Nintendo is still having fun.
+<img src="http://i.kinja-img.com/gawker-media/image/upload/s--xve7C6jl--/1301254001955055717.gif" />
 
 #HSLIDE
 
