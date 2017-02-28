@@ -89,8 +89,7 @@ Streamlined RTS game, cute AF. Aliens on a juice cleanse. Weirdly realistic frui
 
 #HSLIDE
 
-Mario Kart
-==========
+###Mario Kart
 
 Items get better as you lag behind, and AI adjusts skill to match yours (to a point).
 
@@ -98,23 +97,22 @@ Items get better as you lag behind, and AI adjusts skill to match yours (to a po
 
 #HSLIDE
 
-Splatoon
---------
+###Splatoon
 
 <img src="https://gamerxiphos.files.wordpress.com/2015/05/splatoon-dominance-gif.gif" />
 
 #HSLIDE
 
-Captain Toad's Treasure Tracker
--------------------------------
+###Captain Toad's Treasure Tracker
+
 omfgbbq so cute.
 
 <img src="http://cdn.atomix.vg/wp-content/uploads/2015/08/CaptainToad.gif" />
 
 #HSLIDE
 
-Captain Toad's Treasure Tracker
--------------------------------
+###Captain Toad's Treasure Tracker
+
 Clever, low-stress platformer without jumping
 
 <img src="https://d.ibtimes.co.uk/en/full/1416651/captain-toad-treasure-tracker-gif.gif" />
@@ -134,9 +132,9 @@ Nintendo's culture is centered on creativity. They make games that are family-fr
 
 Who plays games? Lots of people.
 
-<a href="http://www.pewinternet.org/2015/12/15/gaming-and-gamers/pi_2015-12-15_gaming-and-gamers_0-01/"><img width="309" height="338" src="http://assets.pewresearch.org/wp-content/uploads/sites/14/2015/12/PI_2015-12-15_gaming-and-gamers_0-01.png" class="attachment-large size-large" alt="Half of American adults play video games; 10% consider themselves “gamers”" /></a>
+<img width="309" height="338" src="http://assets.pewresearch.org/wp-content/uploads/sites/14/2015/12/PI_2015-12-15_gaming-and-gamers_0-01.png" class="attachment-large size-large" alt="Half of American adults play video games; 10% consider themselves “gamers”" />
 
-<a href="http://www.pewinternet.org/2015/12/15/gaming-and-gamers/pi_2015-12-15_gaming-and-gamers_1-01/"><img width="1" height="1" src="http://assets.pewresearch.org/wp-content/uploads/sites/14/2015/12/PI_2015-12-15_gaming-and-gamers_1-01.png" class="attachment-large size-large" alt="Men and women play video games, but men are more likely to call themselves “gamers”" /></a>
+<img src="http://assets.pewresearch.org/wp-content/uploads/sites/14/2015/12/PI_2015-12-15_gaming-and-gamers_1-01.png" class="attachment-large size-large" alt="Men and women play video games, but men are more likely to call themselves “gamers”" />
 
 http://www.pewinternet.org/2015/12/15/who-plays-video-games-and-identifies-as-a-gamer/
 
