@@ -69,8 +69,8 @@ Unbalanced on purpose design.
 
 Everyone is a cat. Need I say more?
 
-<img src="https://www.technobuffalo.com/wp-content/uploads/2013/11/Super-Mario-3D-World-Art-1.jpg" style="width: 50%; float: left;" />
-<img src="http://vignette1.wikia.nocookie.net/fantendo/images/4/48/Cat_Goomba_Artwork_-_Super_Mario_3D_World.png/revision/20131025223839" style="width:50%; float: right;" />
+<img src="https://www.technobuffalo.com/wp-content/uploads/2013/11/Super-Mario-3D-World-Art-1.jpg" style="width: 45%; float: left;" />
+<img src="http://vignette1.wikia.nocookie.net/fantendo/images/4/48/Cat_Goomba_Artwork_-_Super_Mario_3D_World.png/revision/20131025223839" style="width:45%; float: right;" />
 
 #HSLIDE
 
@@ -78,8 +78,8 @@ Everyone is a cat. Need I say more?
 
 Streamlined RTS game, cute AF. Aliens on a juice cleanse. Weirdly realistic fruit.
 
-<img src="http://nintendotoday.com/wp-content/uploads/2012/09/pikmin-3-3.jpg?x74487" style="width: 50%; float: left;"/>
-<img src="http://underratedretro.com/press/wp-content/uploads/2013/08/Pikmin-3.jpg" style="width: 50%; float: right;" />
+<img src="http://nintendotoday.com/wp-content/uploads/2012/09/pikmin-3-3.jpg?x74487" style="width: 45%; float: left;"/>
+<img src="http://underratedretro.com/press/wp-content/uploads/2013/08/Pikmin-3.jpg" style="width: 45%; float: right;" />
 
 #HSLIDE
 
