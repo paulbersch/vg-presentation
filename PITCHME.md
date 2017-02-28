@@ -63,7 +63,7 @@ Unbalanced on purpose design.
 
 <img src="https://i.ytimg.com/vi/evJoXzO7DCM/maxresdefault.jpg" />
 
-#VSLIDE
+#HSLIDE
 
 ###Super Mario 3D World
 
@@ -99,7 +99,7 @@ Least violent shooter ever?
 
 <img src="https://gamerxiphos.files.wordpress.com/2015/05/splatoon-dominance-gif.gif" />
 
-#VSLIDE
+#HSLIDE
 
 Captain Toad's Treasure Tracker
 -------------------------------
