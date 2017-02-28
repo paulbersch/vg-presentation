@@ -8,29 +8,11 @@ Videogames
 
 RIP Wii U
 ---------
-Nov 8th, 2012</td><td>March 3rd, 2017
+Nov 8th, 2012 - March 3rd, 2017
 
 #HSLIDE
 
-LOL FAIL
-========
-
-13.5 million units
-
-# insert graph here
-
-#HSLIDE
-
-PROBLEMS
-========
- * the name: is this an accessory or a new system?
- * the tablet: wait, is this a portable?
- * who is this for? less powerful than PS3 + 360, hard to develop for, TVii???
-
-#HSLIDE
-
-Flop by the Numbers
--------------------
+###Flop by the Numbers
 Fewest consoles and software titles sold ever
 
 <table style="font-size: .5em">
@@ -48,8 +30,16 @@ Fewest consoles and software titles sold ever
         <tr><td>10</td><td>Game Boy/Game Boy Color</td><td>118.69</td><td>501.11</td><td>4.22</td></tr>
 </table>
 
-Source: https://www.gamefaqs.com/boards/631516-wii-u/74825958
-https://www.vg247.com/2017/01/23/more-impressive-than-ps4-sales-so-far-is-the-consoles-software-attach-rate-report/
+<div class="source">Source: https://www.gamefaqs.com/boards/631516-wii-u/74825958
+https://www.vg247.com/2017/01/23/more-impressive-than-ps4-sales-so-far-is-the-consoles-software-attach-rate-report/</div>
+
+#HSLIDE
+
+PROBLEMS
+========
+ * the name: is this an accessory or a new system?
+ * the tablet: wait, is this a portable?
+ * who is this for? less powerful than PS3 + 360, hard to develop for, TVii???
 
 #HSLIDE
 
