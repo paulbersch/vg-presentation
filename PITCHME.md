@@ -145,13 +145,13 @@ Nintendo's culture is centered on creativity. They make games that are family-fr
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--0gHn5jNc--/c_scale,fl_progressive,q_80,w_800/mpsdzssxwygchkukhsm1.png" style="width: 50%;"/>
 
  - Player is dropped, naked and without supplies, in a world with other hostile players
- - April 2016, randomly assigned gender, age, race, and body type to every player._permanently_
+ - April 2016, randomly assigned gender, age, race, and body type to every player _permanently_
 
 #HSLIDE
 
 "Why won’t you give the player base an option to choose their gender? I just want to play the game and have a connection to the character like most other games I play."
 
- - disgruntled male player
+disgruntled male player
 
 <div class="source" style="clear: both;">Source: https://www.theguardian.com/commentisfree/2016/apr/13/videogame-chooses-character-race-gender-rust</div>
 
@@ -165,10 +165,26 @@ Nintendo's culture is centered on creativity. They make games that are family-fr
 <img src="http://assets.pewresearch.org/wp-content/uploads/sites/14/2015/12/PI_2015-12-15_gaming-and-gamers_1-01.png" class="attachment-large size-large" alt="Men and women play video games, but men are more likely to call themselves “gamers”" style="float: right;" />
 </div>
 <div style="clear: both;">&nbsp;</div>
-
 "there are no differences by race or ethnicity in who plays video games"
 
 <div class="source">Source: http://www.pewinternet.org/2015/12/15/who-plays-video-games-and-identifies-as-a-gamer/</div>
+
+#HSLIDE
+
+Many video game protagonists are ciphers and could be anyone
+
+<img src="https://zeldawiki.org/images/thumb/b/be/HWL_Linkle_Crossbow_Artwork.png/1343px-HWL_Linkle_Crossbow_Artwork.png" style="width: 50%; float: left;" />
+
+#HSLIDE
+
+###Things you can do
+
+  - Support your indies!
+  - Contact developers and publishers (it works!)
+  - be nice to people online, report jerks
+  - Make your own games with Twine, RPG Maker, Game Maker
+  - Read good journalism: Austin Walker is doing a great job running Vice's waypoint.zone
+  - Duckfeed.tv slack is a friendly place
 
 #HSLIDE
 
