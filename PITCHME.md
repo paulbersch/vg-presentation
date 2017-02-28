@@ -51,39 +51,43 @@ Only Nintendo and a few indies published good games
 
 Who cares about money? Nintendo is still having fun.
 <img src="http://i1.kym-cdn.com/photos/images/original/001/023/803/f4c.gif" />
+
 (also having ~$8bn of Wii cash in the bank helps)
 
 #HSLIDE
 
-Smash Bros Brawl
-----------------
+###Smash Bros Brawl
 
-Unbalanced on purpose design. 8 players! Secretly a Pokémon game.
+Unbalanced on purpose design.
+8 players! Secretly a Pokémon game.
+
 <img src="https://i.ytimg.com/vi/evJoXzO7DCM/maxresdefault.jpg" />
 
-#HSLIDE
+#VSLIDE
 
-##Super Mario 3D World
+###Super Mario 3D World
 
 Everyone is a cat. Need I say more?
 
-<img src="https://www.technobuffalo.com/wp-content/uploads/2013/11/Super-Mario-3D-World-Art-1.jpg" />
-<img src="http://vignette1.wikia.nocookie.net/fantendo/images/4/48/Cat_Goomba_Artwork_-_Super_Mario_3D_World.png/revision/20131025223839" />
+<img src="https://www.technobuffalo.com/wp-content/uploads/2013/11/Super-Mario-3D-World-Art-1.jpg" style="width: 50%; float: left;" />
+<img src="http://vignette1.wikia.nocookie.net/fantendo/images/4/48/Cat_Goomba_Artwork_-_Super_Mario_3D_World.png/revision/20131025223839" style="width:50%; float: right;" />
 
 #HSLIDE
 
-##Pikmin
+###Pikmin
 
 Streamlined RTS game, cute AF. Aliens on a juice cleanse. Weirdly realistic fruit.
-<img src="http://nintendotoday.com/wp-content/uploads/2012/09/pikmin-3-3.jpg?x74487" />
-<img src="http://underratedretro.com/press/wp-content/uploads/2013/08/Pikmin-3.jpg" />
+
+<img src="http://nintendotoday.com/wp-content/uploads/2012/09/pikmin-3-3.jpg?x74487" style="width: 50%; float: left;"/>
+<img src="http://underratedretro.com/press/wp-content/uploads/2013/08/Pikmin-3.jpg" style="width: 50%; float: right;" />
 
 #HSLIDE
 
 Mario Kart
 ==========
 
-Classic for-everyone gameplay. Items get better as you lag behind, and AI adjusts skill to match yours (to a point).
+Items get better as you lag behind, and AI adjusts skill to match yours (to a point).
+
 <img src="https://media.giphy.com/media/PS4r30hfeNrR6/giphy.gif" />
 
 #HSLIDE
@@ -92,16 +96,18 @@ Splatoon
 --------
 
 Least violent shooter ever?
-Strong Miiverse presence
-Are you a squid or a kid?
 
-#HSLIDE
+<img src="https://gamerxiphos.files.wordpress.com/2015/05/splatoon-dominance-gif.gif" />
+
+#VSLIDE
 
 Captain Toad's Treasure Tracker
 -------------------------------
 omfgbbq so cute.
+
 <img src="http://cdn.atomix.vg/wp-content/uploads/2015/08/CaptainToad.gif" />
 <img src="https://d.ibtimes.co.uk/en/full/1416651/captain-toad-treasure-tracker-gif.gif" />
+
 Clever, low-stress platformer without jumping
 
 #HSLIDE
