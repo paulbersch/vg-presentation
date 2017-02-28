@@ -33,7 +33,7 @@ Flop by the Numbers
 -------------------
 Fewest consoles and software titles sold ever
 
-<table>
+<table style="font-size: .5em">
         <th><td>&nbsp;</td><td>System</td><td>Consoles (MM)</td><td>Software (MM)</td><td>Attach Rate</td></th>
         <tr><td>01</td><td>Nintendo Gamecube</td><td>21.74</td><td>208.57</td><td>9.59</td></tr>
         <tr><td>02</td><td>Wii</td><td>101.63</td><td>916.15</td><td>9.01</td></tr>
@@ -113,12 +113,29 @@ Investment (time, money)
 
 #HSLIDE
 
+Who plays games? Lots of people.
+<a href="http://www.pewinternet.org/2015/12/15/gaming-and-gamers/pi_2015-12-15_gaming-and-gamers_0-01/"><img width="309" height="338" src="http://assets.pewresearch.org/wp-content/uploads/sites/14/2015/12/PI_2015-12-15_gaming-and-gamers_0-01.png" class="attachment-large size-large" alt="Half of American adults play video games; 10% consider themselves “gamers”" /></a>
+
+<a href="http://www.pewinternet.org/2015/12/15/gaming-and-gamers/pi_2015-12-15_gaming-and-gamers_1-01/"><img width="1" height="1" src="http://assets.pewresearch.org/wp-content/uploads/sites/14/2015/12/PI_2015-12-15_gaming-and-gamers_1-01.png" class="attachment-large size-large" alt="Men and women play video games, but men are more likely to call themselves “gamers”" /></a>
+
+http://www.pewinternet.org/2015/12/15/who-plays-video-games-and-identifies-as-a-gamer/
+
+#HSLIDE
+
+Is gaming relevant?
+
+<img src="https://d1ax1i5f2y3x71.cloudfront.net/items/0G3x3B240B3K0U150X3L/Screen%20Shot%202017-02-27%20at%208.24.52%20PM.png?X-CloudApp-Visitor-Id=2671635" />
+Source: https://www.superdataresearch.com/market-data/market-brief-year-in-review/
+
+#HSLIDE
+
 RUST
 ----
 
 Indie game in perpetual alpha (playtesting)
 Survive in a multiplayer world starting naked with no possessions
 April 2016, pushed update that randomly assigns gender, age, race, and body type to every player. permanently.
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--0gHn5jNc--/c_scale,fl_progressive,q_80,w_800/mpsdzssxwygchkukhsm1.png" />
 
 #HSLIDE
 
