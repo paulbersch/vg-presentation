@@ -176,13 +176,13 @@ Many video game protagonists are ciphers and could be anyone. There's no excuse 
 
 #HSLIDE
 
-###High-budget games are trying harder
+###High-budget games are trying
  - Assassin's Creed Syndicate: first mainline game to include a female protagonist (after outcry from not having female models available in multiplayer in previous game)
  - Dishonored 2: can play entire game as either Emily or Corvo
 
 #HSLIDE
 
-###High budget games are trying harder
+###High budget games are trying
  - Mafia 3: black male protagonist, tries to portray racism of 60's New Orleans
      - not-totally-cringeworthy segregated diners, kkk, racist name-calling by enemies and passerby
      - police respond slower (or not at all) in poor neighborhoods
@@ -237,7 +237,7 @@ Perhaps the broadest range of playble characters (and the best shipping) ever
 
 4207 games were  released on Steam last year
 
-<img src="https://i.kinja-img.com/gawker-media/image/upload/x9kjvkbkfl3st9dvfcmx.jpg" style="width: 80%;" />
+<img src="https://i.kinja-img.com/gawker-media/image/upload/x9kjvkbkfl3st9dvfcmx.jpg" style="width: 60%;" />
 
 <div class="source">Source: http://kotaku.com/nearly-40-of-all-steam-games-were-released-in-2016-1789535450</div>
 
